@@ -1,0 +1,4 @@
+# Ignore directory mounted to capture jupyter configuration from docker container
+/docker/
+# Ignore temporary saves from running jupyter
+/notebooks/.ipynb_checkpoints/
